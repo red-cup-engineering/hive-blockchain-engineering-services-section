@@ -1,6 +1,5 @@
 {
   "name": "@red-cup-engineering/hive-blockchain-engineering-services-section",
-  "private": true,
   "version": "0.1.0",
   "type": "module",
   "description": "Engineering knowledge and operational services for the 561 Group's use of the Hive blockchain.",
@@ -8,9 +7,5 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/red-cup-engineering/hive-blockchain-engineering-services-section.git"
-  },
-  "funding": {
-    "type": "individual",
-    "url": "https://github.com/561-group/.github/blob/main/TIPS.md"
   }
 }
